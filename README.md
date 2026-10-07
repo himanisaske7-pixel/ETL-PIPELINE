@@ -39,7 +39,7 @@ The pipeline connects to a MySQL database with `mysql-connector-python`, creates
 
 ### MySQL Workbench results
 
-![MySQL Workbench showing the database tables and results](assets/mysql-workbench.png)
+![MySQL Workbench showing the database tables and results](https://github.com/himanisaske7-pixel/ETL-PIPELINE/blob/main/mysql-workbench-results.jpeg)
 
 Add the screenshots to the repository at `assets/etl-workflow.png` and `assets/mysql-workbench.png` (or update the links above to match your filenames). The workflow image should show the Python/SQL process; the Workbench image should show the created database tables or query results.
 
